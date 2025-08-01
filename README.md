@@ -26,7 +26,13 @@ As I am a macOS user, I tried to use the native service manager, *launchd*. It h
 
 ## **Sending push notifications**
 
-there are several ways to send push notifications from your computer to your phone. the most customisable one is building your own app - which I deliberately wanted to avoid. 
+There are several ways to send push notifications from your computer to your phone. The most customisable one is building your own app — which I deliberately wanted to avoid. Instead, I started to work on a web push service. Having little to no experience with how web development works, I soon realised that I should host a server that is rather complicated on my level. Therefore, I settled with a method that requires a third-party solution but is free to use — even if with limitations. I am using ntfy.sh, which is really easy to set up and work with.
+
+In fact, anyone can subscribe to my updates:
+
+1. Install the **ntfy** app
+2. Subscribe to the topic: **daily-fx-rates**
+
 
 
 ## **Getting th required data**
