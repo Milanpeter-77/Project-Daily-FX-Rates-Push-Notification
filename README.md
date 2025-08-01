@@ -33,8 +33,7 @@ In fact, anyone can subscribe to my updates:
 1. Install the **ntfy** app
 2. Subscribe to the topic: **daily-fx-rates**
 
+## **Getting the required data**
 
-
-## **Getting th required data**
-
+Finally, getting the required data for an exchange rate. It could be a trivial task by Googling it, but since it is a repetitive task that needs to be executed every day, one should use some kind of service to download data. If you are subscribed to any financial data service, e.g. Bloomberg or LSEG, it is best to use them for this purpose. However, for this task, I wanted to have a completely free solution. Fortunately, many sites offer APIs that have a free-tier as well. I selected one of them (Open Exchange Rates), subscribed to them, and started downloading my data.
 
