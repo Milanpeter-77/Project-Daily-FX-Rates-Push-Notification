@@ -34,7 +34,7 @@ timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
 # %%
 # App ID
-API_KEY = "9b9a3c99b74d4050bfd6508f454a0583"
+API_KEY = "..."
 
 # Currencies needed for conversion
 symbols = ["EUR", "GBP", "HUF"]
